@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1527051606 source:e:\binaryst2\bin.cpp
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+	<climits>
+	<algorithm>
+	<vector>
+	"bst.h"
+	"draw.h"
+
+1527052022 e:\binaryst2\bst.h
+	<iostream>
+	<stdio.h>
+	<cstdlib>
+	<climits>
+
+1527834672 e:\binaryst2\draw.h
+	<GLUT/glut.h>
+	<GL/glut.h>
+	<sstream>
+	<string.h>
+	<string>
+	<cstring>
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+	<climits>
+	<queue>
+	<math.h>
+
