@@ -10,3 +10,7 @@
 Lines between nodes are drawn using Bresenham Line drawing and circular nodes are drawn using midpoint algorithm
 The program also includes menus.
 It implements the 3 traversals (inorder,preorder,postorder).
+
+TO RUN:
+1. I used codeblocks for running the program.
+2. Explicitly install the opengl libraries.(Download the glutming.zip file)
